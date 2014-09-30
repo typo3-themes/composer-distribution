@@ -1,0 +1,18 @@
+{
+	"repositories": [
+		{
+		  "type": "composer",
+		  "url": "http://composer.typo3.org/"
+		}
+	],
+	"name": "kaystrobach/themes-distribution",
+	"description" : "TYPO3 CMS Themes Base Distribution",
+	"license": "GPL-2.0+",
+	"config": {
+		"vendor-dir": "Packages/Libraries",
+		"bin-dir": "bin"
+	},
+	"require": {
+		"typo3/cms": "dev-master"
+	}
+}
