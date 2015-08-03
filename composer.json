@@ -13,6 +13,7 @@
 		"bin-dir": "bin"
 	},
 	"require": {
-		"typo3/cms": "dev-master"
+		"typo3/cms": "dev-master",
+		"typo3-ter/theme-bootstrap-slate": "~1.0.4"
 	}
 }
